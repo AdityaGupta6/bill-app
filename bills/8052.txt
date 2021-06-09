@@ -1,0 +1,14 @@
+	 Welcome Webcpode Retail
+ Bill Number : 8052
+Customer Name : qqq
+ Phone Number : 111
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap 		1		40
+ Face cream 		1		120
+--------------------------------------
+ Cosmetic Tax 				Rs 8.0
+--------------------------------------
+ Total price 				168.0
+--------------------------------------
